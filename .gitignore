@@ -1,0 +1,6 @@
+.env
+data/
+letsencrypt/
+certs/
+fleet-certifi.yaml
+
