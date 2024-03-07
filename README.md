@@ -47,7 +47,7 @@ docker stack rm <nom_de_la_stack>
 ```
 Note : Avant de déployer les stacks, assurez-vous que les ports nécessaires sont ouverts sur votre réseau et que les variables d'environnement sont correctement configurées dans les fichiers Docker Compose.
 
-![shema_infra](https://github.com/Naililruojnob/Docker-Project/blob/592daf236269fcd2ffb712d558828372e73458ee/Shema_infra.png)
+![shema_infra](https://github.com/Naililruojnob/Docker-Project/blob/b12da88ed9127ce130eb2b739b72747eec77a8cb/Shema_infra.png)
 
 image myapp https://hub.docker.com/repository/docker/naililruojnob/myapp/general
 
